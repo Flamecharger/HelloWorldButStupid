@@ -1,0 +1,15 @@
+public class iamanoobatjava
+
+{
+  public static void main(String args[])
+  {
+    int x = 696969; //it ain't funny coz it's bigger than your pp
+    for(int i = 1; i < x; i++)
+    {
+     if(i = 6969)
+     System.out.println("Hello World");
+     if(i > 6969)
+     break;
+    }
+  }
+}
