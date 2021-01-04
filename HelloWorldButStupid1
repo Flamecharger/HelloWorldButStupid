@@ -9,7 +9,7 @@ public class iamanoobatjava
     System.out.println("Enter your pp size");
     int pp = sc.nextInt();
     
-    int x = 696969;
+    int x = 69;
     
     if(pp < x)
     boolean ppissmol = true;
@@ -19,7 +19,7 @@ public class iamanoobatjava
     for(int i = 1; i < x; i++)
     {
      if(i = pp)
-     System.out.println("Hello World");
+     System.out.println("Hello World"); //whitehatjr kids can't even do this
      if(i > pp)
      break;
     }
