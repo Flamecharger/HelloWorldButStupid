@@ -1,14 +1,26 @@
+import java.util.*;
+
 public class iamanoobatjava
 
 {
   public static void main(String args[])
   {
-    int x = 696969; //it ain't funny coz it's bigger than your pp
+    Scanner sc = new Scanner (System.in);
+    System.out.println("Enter your pp size");
+    int pp = sc.nextInt();
+    
+    int x = 696969;
+    
+    if(pp < x)
+    boolean ppissmol = true;
+    else
+    ppissmol = false;
+    
     for(int i = 1; i < x; i++)
     {
-     if(i = 6969)
+     if(i = pp)
      System.out.println("Hello World");
-     if(i > 6969)
+     if(i > pp)
      break;
     }
   }
